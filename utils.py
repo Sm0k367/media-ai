@@ -1,3 +1,3 @@
-# This file can be used for utility functions related to video service
+# This file can be used for utility functions related to text service
 
 
